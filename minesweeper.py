@@ -1,8 +1,6 @@
 WIDTH = 300
 HEIGHT = 300
 
-
-
 def draw():
     square_side = 32
     red = (255, 0, 0)
