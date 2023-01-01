@@ -3,10 +3,10 @@ HEIGHT = 300
 
 def draw():
     square_side = 32
-    red = (255, 0, 0)
+    red = (255, 128, 14)
     left_pos = 5
     top_pos = 5
-    screen.fill((0, 0, 0))
+    screen.fill((25, 25, 25))
 
     # Populate window with a 9x9 grid of tiles
     for i in range(0, 9):
